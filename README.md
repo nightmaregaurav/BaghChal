@@ -1,5 +1,6 @@
 # BaghChal
 Classic game built with python and PyQt5.
+![Preview Screenshot](https://raw.githubusercontent.com/nightmaregaurav/BaghChal/main/Screenshot%202021-05-31%2020%3A47%3A49.png)
 
 ## How to run
 - Clone: **git clone https://github.com/nightmaregaurav/BaghChal.git**
