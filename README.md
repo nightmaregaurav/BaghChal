@@ -25,7 +25,7 @@ Classic game built with python and PyQt5.
 - Disclose source: **Source code must be made available when the licensed material is distributed.**
 - License and copyright notice: **A copy of the license and copyright notice must be included with the licensed material.**
 - Same license: **Modifications must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used.**
-- State changes: **Changes made to the licensed material must be documented.**
+- State changes: **Changes made to the licensed material must be documented. Along with link to original source**
 
 ---
 Open For Contrubution
